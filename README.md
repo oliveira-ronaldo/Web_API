@@ -1,9 +1,9 @@
 # Web_API
  API de musicas
 
-## Tecnologias utilizadas:
- *Node.js
- *express
- *Mongoose
- *JavaScript
- *Insomnia
+## Tecnologias Utilizadas
+
+* Node.js
+* Express
+* Mongoose
+* JavaScript
