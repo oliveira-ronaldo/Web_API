@@ -16,7 +16,7 @@
 
 
 
-## Modelo COnceitual
+## Modelo Conceitual
 ![Modelo do banco de dados](image.png)
 
 ## Referências
