@@ -1,6 +1,6 @@
 import express from "express";
 import mongoose from "mongoose";
-import Musica from './models/musica.js';
+import Musica from './models/Musica.js';
 
 const app = express();
 app.use(express.json());
