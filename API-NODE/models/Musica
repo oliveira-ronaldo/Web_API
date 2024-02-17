@@ -1,0 +1,22 @@
+import mongoose from "mongoose";
+
+const MusicaSchema = new   mongoose.Schema({ 
+    titulo: { 
+        type: String,
+        required: true
+        },
+        Artista: {
+            type:String,
+            required:true
+        },
+        AnoLancamento: {
+        type: Number,
+        required: true 
+        },
+        CreateadAt: {
+            type: Date,
+            default: Date.now()
+        }
+})
+
+export default mongoose.model("Musica", MusicaSchema)
