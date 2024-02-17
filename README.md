@@ -2,9 +2,8 @@
  API de musicas
 
 ## Tecnologias utilizadas:
- li
- -Node.js
- -express
- -Mongoose
- -JavaScript
- -Insomnia
+ *Node.js
+ *express
+ *Mongoose
+ *JavaScript
+ *Insomnia
